@@ -1,0 +1,4 @@
+Here i am working on MNIST dataset for recogninzing digits from 0 to 9. First i splitted MNIST dataset into training and testing part. Then i trained my model with the training part and i have acheived an accuarcy of 93.33 percent with testing part.
+Additionally i tried to predict my own handwritten digits written on online blackboard and it predicted almost 60 percent correctly.
+I am attaching my handwritten picture of digits also.
+Collab Link of my ipynb file :- https://colab.research.google.com/drive/1GYokrVthEDMmYu3ozC_9Vy_swMNSbfHz
