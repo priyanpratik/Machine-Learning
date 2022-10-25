@@ -2,3 +2,4 @@ Here i am working on MNIST dataset for recogninzing digits from 0 to 9. First i 
 Additionally i tried to predict my own handwritten digits written on online blackboard and it predicted almost 60 percent correctly.
 I am attaching my handwritten picture of digits also.
 Collab Link of my ipynb file :- https://colab.research.google.com/drive/1GYokrVthEDMmYu3ozC_9Vy_swMNSbfHz
+I will try to improve my accuracy using Neural Networks and Tensorflow so that it will easily be able to recognize handwritten digits
